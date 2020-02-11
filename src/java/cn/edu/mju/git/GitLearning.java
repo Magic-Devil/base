@@ -10,5 +10,6 @@ public class GitLearning {
     @Test
     public void test() {
         ClassLoader classLoader = this.getClass().getClassLoader();
+        System.out.println("I fixed the file");
     }
 }
