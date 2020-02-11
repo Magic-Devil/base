@@ -11,5 +11,6 @@ public class GitLearning {
     public void test() {
         ClassLoader classLoader = this.getClass().getClassLoader();
         System.out.println("I fixed the file");
+        System.out.println("keep coding");
     }
 }
